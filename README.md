@@ -1,4 +1,11 @@
-# monthy-replay
+# Vuejs starter
+
+There is a base project for vuejs, it's include multiple addons with a nice config.
+Vue 2 (because some package not handle vue3)
+Vuetify
+Tailwind
+MaterialDesignIcon
+Eslint + prettier (kind)
 
 ## Project setup
 ```
